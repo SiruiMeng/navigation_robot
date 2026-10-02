@@ -1,0 +1,1 @@
+/home/ros/Documents/ros2/navigation_robot/build/navigation_robot/ament_cmake_environment_hooks/local_setup.sh

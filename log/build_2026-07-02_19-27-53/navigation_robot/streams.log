@@ -1,0 +1,26 @@
+[0.040s] Invoking command in '/home/ros/Documents/ros2/navigation_robot/build/navigation_robot': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/ros/Documents/ros2/navigation_robot/build/navigation_robot -- -j16 -l16
+[0.159s] Invoked command in '/home/ros/Documents/ros2/navigation_robot/build/navigation_robot' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/ros/Documents/ros2/navigation_robot/build/navigation_robot -- -j16 -l16
+[0.189s] Invoking command in '/home/ros/Documents/ros2/navigation_robot/build/navigation_robot': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/ros/Documents/ros2/navigation_robot/build/navigation_robot
+[0.209s] -- Install configuration: ""
+[0.210s] -- Execute custom install script
+[0.211s] -- Up-to-date symlink: /home/ros/Documents/ros2/navigation_robot/install/navigation_robot/share/navigation_robot/config/empty.yaml
+[0.212s] -- Up-to-date symlink: /home/ros/Documents/ros2/navigation_robot/install/navigation_robot/share/navigation_robot/description/rbot_core.xacro
+[0.212s] -- Up-to-date symlink: /home/ros/Documents/ros2/navigation_robot/install/navigation_robot/share/navigation_robot/description/robot.urdf.xacro
+[0.213s] -- Up-to-date symlink: /home/ros/Documents/ros2/navigation_robot/install/navigation_robot/share/navigation_robot/launch/rsp.launch.py
+[0.214s] -- Up-to-date symlink: /home/ros/Documents/ros2/navigation_robot/install/navigation_robot/share/navigation_robot/worlds/empty.world
+[0.214s] -- Up-to-date symlink: /home/ros/Documents/ros2/navigation_robot/install/navigation_robot/share/ament_index/resource_index/package_run_dependencies/navigation_robot
+[0.216s] -- Up-to-date symlink: /home/ros/Documents/ros2/navigation_robot/install/navigation_robot/share/ament_index/resource_index/parent_prefix_path/navigation_robot
+[0.216s] -- Up-to-date symlink: /home/ros/Documents/ros2/navigation_robot/install/navigation_robot/share/navigation_robot/environment/ament_prefix_path.sh
+[0.216s] -- Up-to-date symlink: /home/ros/Documents/ros2/navigation_robot/install/navigation_robot/share/navigation_robot/environment/ament_prefix_path.dsv
+[0.217s] -- Up-to-date symlink: /home/ros/Documents/ros2/navigation_robot/install/navigation_robot/share/navigation_robot/environment/path.sh
+[0.218s] -- Up-to-date symlink: /home/ros/Documents/ros2/navigation_robot/install/navigation_robot/share/navigation_robot/environment/path.dsv
+[0.218s] -- Up-to-date symlink: /home/ros/Documents/ros2/navigation_robot/install/navigation_robot/share/navigation_robot/local_setup.bash
+[0.219s] -- Up-to-date symlink: /home/ros/Documents/ros2/navigation_robot/install/navigation_robot/share/navigation_robot/local_setup.sh
+[0.220s] -- Up-to-date symlink: /home/ros/Documents/ros2/navigation_robot/install/navigation_robot/share/navigation_robot/local_setup.zsh
+[0.220s] -- Up-to-date symlink: /home/ros/Documents/ros2/navigation_robot/install/navigation_robot/share/navigation_robot/local_setup.dsv
+[0.220s] -- Symlinking: /home/ros/Documents/ros2/navigation_robot/install/navigation_robot/share/navigation_robot/package.dsv
+[0.248s] -- Up-to-date symlink: /home/ros/Documents/ros2/navigation_robot/install/navigation_robot/share/ament_index/resource_index/packages/navigation_robot
+[0.249s] -- Up-to-date symlink: /home/ros/Documents/ros2/navigation_robot/install/navigation_robot/share/navigation_robot/cmake/navigation_robotConfig.cmake
+[0.249s] -- Up-to-date symlink: /home/ros/Documents/ros2/navigation_robot/install/navigation_robot/share/navigation_robot/cmake/navigation_robotConfig-version.cmake
+[0.250s] -- Up-to-date symlink: /home/ros/Documents/ros2/navigation_robot/install/navigation_robot/share/navigation_robot/package.xml
+[0.257s] Invoked command in '/home/ros/Documents/ros2/navigation_robot/build/navigation_robot' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/ros/Documents/ros2/navigation_robot/build/navigation_robot
